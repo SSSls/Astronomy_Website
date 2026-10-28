@@ -2,4 +2,5 @@
 
 A React + Vite astronomy learning and observation journal website.
 
-website-one-ivory-24.vercel.app
+[website-one-ivory-24.vercel.app
+](https://seestar-observer.vercel.app/)
